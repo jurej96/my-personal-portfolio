@@ -2,6 +2,8 @@
 
 A clean, responsive portfolio website showcasing my work and skills as a Software Developer.
 
+🔗 [View Live Demo](https://jurej96.github.io/my-personal-portfolio/)
+
 ## Features
 
 - Responsive navigation with hamburger menu
